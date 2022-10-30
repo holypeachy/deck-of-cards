@@ -1,0 +1,15 @@
+E:\Code\VS Code Projects\Deck\bin\Debug\net6.0\Deck.exe
+E:\Code\VS Code Projects\Deck\bin\Debug\net6.0\Deck.deps.json
+E:\Code\VS Code Projects\Deck\bin\Debug\net6.0\Deck.runtimeconfig.json
+E:\Code\VS Code Projects\Deck\bin\Debug\net6.0\Deck.dll
+E:\Code\VS Code Projects\Deck\bin\Debug\net6.0\Deck.pdb
+E:\Code\VS Code Projects\Deck\obj\Debug\net6.0\Deck.csproj.AssemblyReference.cache
+E:\Code\VS Code Projects\Deck\obj\Debug\net6.0\Deck.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\VS Code Projects\Deck\obj\Debug\net6.0\Deck.AssemblyInfoInputs.cache
+E:\Code\VS Code Projects\Deck\obj\Debug\net6.0\Deck.AssemblyInfo.cs
+E:\Code\VS Code Projects\Deck\obj\Debug\net6.0\Deck.csproj.CoreCompileInputs.cache
+E:\Code\VS Code Projects\Deck\obj\Debug\net6.0\Deck.dll
+E:\Code\VS Code Projects\Deck\obj\Debug\net6.0\refint\Deck.dll
+E:\Code\VS Code Projects\Deck\obj\Debug\net6.0\Deck.pdb
+E:\Code\VS Code Projects\Deck\obj\Debug\net6.0\Deck.genruntimeconfig.cache
+E:\Code\VS Code Projects\Deck\obj\Debug\net6.0\ref\Deck.dll
